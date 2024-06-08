@@ -1,5 +1,9 @@
 ##Analises capitulo 2 da tese de doutorado -- modelagem de nicho ecologico de cetaceos no litoral do ES##
 
+#linha teste github
+
+
+
 #lendo pacotes####
 
 library("spThin")
