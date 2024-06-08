@@ -1,1 +1,3 @@
-# enm_cetaceans_ES
+# Ecological Niche Modelling of cetaceans off Espirito Santo coast
+
+This is a work in progress...
